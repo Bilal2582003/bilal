@@ -1,0 +1,16 @@
+{
+    "name":"ProgressiveWebApp",
+    "short_name":"PWA",
+    "display":"standalone",
+    "oreintation":"portrait",
+    "background_color":"#000",
+    "theme_color":"#fff",
+    "start_url":"/index16oct.html",
+    "icons":[
+        {
+            "src":"/images/icons/icon_192x192.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        }
+    ]
+}

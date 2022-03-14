@@ -1,0 +1,35 @@
+body{
+    background-color: #f5eee8;
+}
+img{
+    width: 100%;
+    height: 400px;
+}
+h2{
+    color: black;
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    padding: 2% 20% 2% 20%;
+    text-align: center;
+    font-size: 1.1rem;
+}
+ul,ol{
+    margin-left: 40%;
+}
+ul li{
+    font-size: 1.1rem;
+    list-style-type: square;
+}
+ol li{
+    font-size: 1.1rem;
+    list-style:upper-alpha;
+}
+h1{
+    color: black;
+    font-size: 3.2rem;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
